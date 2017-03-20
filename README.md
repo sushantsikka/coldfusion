@@ -1,8 +1,12 @@
 # coldfusion
-Sample CF applications
 
-... charts.cfm creates charts using ColdFusion
+CFML is a server side scripting language. A CFML application can have server side CFML tags and HTML, CSS and JavaScript.
 
-... cfhtml2pdf.zip is a CF application to convert HTML pages to PDF using cfhtmltopdf function 
+### Sample CF applications
+
+... charts.cfm creates charts using ColdFusion. cfchart tag in CFML generates and displays a chart.
+
+... cfhtml2pdf.zip is a CF application to convert HTML pages to PDF using cfhtmltopdf function.
+cfhtmltopdf creates high quality PDF output from a text block containing CFML and HTML using the PDF Service Manager.
 
 ... newsupdates_CF.zip fetches data from REST API calls and displays it
