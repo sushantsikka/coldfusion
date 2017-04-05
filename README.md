@@ -1,5 +1,13 @@
 # coldfusion
+---
 
+Adobe ColdFusion is a rapid web application development platform. CFML i.e. ColdFusion Markup Language augments HTML, CSS and JavaScript to implement server side functions.
+
+Learn more about ColdFusion here 
+* http://www.adobe.com/devnet/coldfusion.html
+* http://www.adobe.com/in/products/coldfusion-family.html
+
+---
 CFML is a server side scripting language. A CFML application can have server side CFML tags and HTML, CSS and JavaScript.
 
 ### Sample CF applications
